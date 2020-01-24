@@ -1,2 +1,13 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
+
+
+->Na energopiounte oi erotisis apo tin kathigitria tin ora tis dialexis
+->Na valo priliveldges, 
+->Attachments stin forma gia tis erotisis
+->Questionnaire, tha ekanes esi askisi  
+->GDPR, gia statistika apo tis erotisis an xrisimopiithoun sto mellon
+
+
+
+->na mpori an kani delete 
